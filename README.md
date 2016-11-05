@@ -1,2 +1,2 @@
 # homebridge-nikobus
-Nikobus plugin for Homebridge https://github.com/nfarina/homebridge
+Nikobus platform plugin for Homebridge (https://github.com/nfarina/homebridge)
