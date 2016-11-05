@@ -69,12 +69,12 @@
 					"buttons": [
 						{
 							"number": "A",
-							"name": " Television On",
+							"name": "Television On",
 							"service": "lightbulb"
 						},
 						{
 							"number": "B",
-							"name": " Television Off",
+							"name": "Television Off",
 							"service": "lightbulb"
 						},
 						{
