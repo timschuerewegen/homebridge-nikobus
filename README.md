@@ -5,11 +5,11 @@ Nikobus platform plugin for Homebridge (https://github.com/nfarina/homebridge)
 ## Installation
 
 1. Install Homebridge.
-* `npm install -g homebridge`
+	* `npm install -g homebridge`
 2. Install this plugin.
-* `npm install -g homebridge-nikobus`
+	* `npm install -g homebridge-nikobus`
 3. Configure the plugin by editing your Homebridge configuration file (config.json).
-* see `sample-config.json` in this repository for an example
+	* see `sample-config.json` in this repository for an example
 4. Start Homebridge
 
 ## Configuration
