@@ -1,6 +1,6 @@
 {
   "name": "homebridge-nikobus",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Nikobus platform plugin for Homebridge",
   "license": "ISC",
   "author": "Tim Schuerewegen",
@@ -19,6 +19,7 @@
     "homebridge": ">=0.4.6"
   },
   "dependencies": {
-    "serialport": "3.1.2"
+    "serialport": "3.1.2",
+    "async": "2.6.3"
   }
 }
