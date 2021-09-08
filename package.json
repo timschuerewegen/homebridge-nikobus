@@ -19,7 +19,7 @@
     "homebridge": ">=0.4.6"
   },
   "dependencies": {
-    "serialport": "7.1.5",
+    "serialport": "latest",
     "async": "2.6.3"
   }
 }
