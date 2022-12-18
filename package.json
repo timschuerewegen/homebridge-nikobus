@@ -20,6 +20,6 @@
   },
   "dependencies": {
     "serialport": "latest",
-    "async": "2.6.3"
+    "async": "3.2.1"
   }
 }
