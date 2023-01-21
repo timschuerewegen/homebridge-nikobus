@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/timschuerewegen/homebridge-nikobus.git"
+    "url": "git://github.com/hauserbauten/homebridge-nikobus.git"
   },
   "bugs": {
     "url": "https://github.com/timschuerewegen/homebridge-nikobus/issues"
@@ -19,7 +19,7 @@
     "homebridge": ">=0.4.6"
   },
   "dependencies": {
-    "serialport": "latest",
-    "async": "2.6.3"
+    "serialport": "9.2.4",
+    "async": "3.2.1"
   }
 }
